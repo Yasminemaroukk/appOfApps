@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/Yasminemaroukk/appOfApps
     targetRevision: HEAD
-    path: appOfApps/manifests 
+    path: manifests 
    
   
   destination:
